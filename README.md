@@ -8,8 +8,8 @@ an example is below
 ## How To Install
 
 ```sh
-pkg update && pkg upgrade
-pkg install git python3
+apt update && apt upgrade
+apt install git python3
 git clone https://github.com/haijuga7/IPCFScanner.git
 cd IPCFScanner
 python3 -m pip install -r requirements.txt
