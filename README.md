@@ -1,6 +1,6 @@
 # IPCFScanner
 
-The main purpose of this tool is to scan CIDR to find IP proxies for CF Vless, but due to program deficiencies, this tool can only be used to scan IPs connected to Cloudflare, so to determine whether the IP is a proxy IP, you have to check again on this website, [click here](https://cfip-check.pages.dev/)
+The main purpose of this tool is to scan CIDR to find IP proxies for CF Vless, but due to program deficiencies, this tool can only be used to scan IPs connected to Cloudflare, so to determine whether the IP is a proxy IP, you have to check again on this website, [click here](https://proxyip.edtunnel.best)
 an example is below
 
 ![termux](https://raw.githubusercontent.com/haijuga7/IPCFScanner/main/src/Screenshot_20231221-230839_Termux.png) ![chrome](https://raw.githubusercontent.com/haijuga7/IPCFScanner/main/src/Screenshot_20231221-231714_Chrome.png)
